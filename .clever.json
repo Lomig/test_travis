@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_5a5aaae3-a9af-49e5-a84f-285fefd66453",
+      "org_id": "user_92a7bfb2-1fbc-452e-bfa7-7fd53f63869d",
+      "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_5a5aaae3-a9af-49e5-a84f-285fefd66453.git",
+      "name": "product_hunt_clone",
+      "alias": "product_hunt_clone"
+    }
+  ]
+}
